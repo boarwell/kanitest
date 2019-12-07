@@ -1,0 +1,22 @@
+{
+  "name": "kanitest",
+  "version": "0.1.0",
+  "description": "A typed minimalistic test library",
+  "main": "./dist/kanitest.js",
+  "types": "./dist/kanitest.d.ts",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorimori/kanitest.git"
+  },
+  "keywords": [],
+  "author": "gorimori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorimori/kanitest/issues"
+  },
+  "homepage": "https://github.com/gorimori/kanitest#readme",
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  }
+}
