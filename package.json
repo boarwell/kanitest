@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gorimori/kanitest#readme",
   "devDependencies": {
-    "typescript": "^3.7.3"
+    "typescript": "^3.8.3"
   }
 }
